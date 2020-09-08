@@ -27,7 +27,7 @@ public class SearchAndAddProductIntoBakset {
 		    	base.keyword.getToSearchPage();
 		    	base.keyword.waitUntilPageLoadsComplelety();
 		    	
-		    	// check element exists
+		    	// check element exists or not
 		    	boolean result = base.keyword.checkElementExists("searchPageLabel");
 				Assert.assertTrue(result);
 				base.log.info("User is on the Search page");
