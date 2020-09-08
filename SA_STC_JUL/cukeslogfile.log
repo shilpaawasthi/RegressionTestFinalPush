@@ -1,0 +1,32 @@
+2020-09-08 17:13:07,282 INFO  [Log] **************************************************************************************** 
+2020-09-08 17:13:07,283 INFO  [Log] **                    START SCENARIO EXECUTION Title of your scenario** 
+2020-09-08 17:13:07,284 INFO  [Log] **************************************************************************************** 
+2020-09-08 17:13:07,284 INFO  [Log] initialising properties.. 
+2020-09-08 17:13:07,284 INFO  [Log] Properties initialised! 
+2020-09-08 17:13:07,284 INFO  [Log] opening browser.. 
+2020-09-08 17:13:07,284 INFO  [Log] Chrome.. 
+2020-09-08 17:13:15,058 INFO  [Log] Navigating to..https://uk.rs-online.com/web/ 
+2020-09-08 17:13:20,054 INFO  [Log] Get to Search Page 
+2020-09-08 17:13:20,054 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-09-08 17:13:20,475 INFO  [Log] Waiting until page loads completely.. 
+2020-09-08 17:13:22,950 INFO  [Log] Waiting until page loads completely.. 
+2020-09-08 17:13:24,019 INFO  [Log] Checking Element Exists - searchPageLabel 
+2020-09-08 17:13:24,062 INFO  [Log] User is on the Search page 
+2020-09-08 17:13:24,062 INFO  [Log] * When the user enters battery into searchProductText 
+2020-09-08 17:13:24,062 INFO  [Log] Waiting Until Element Is Visible - //*[@id='searchTerm'] 
+2020-09-08 17:13:24,161 INFO  [Log] Entering data - battery into + searchProductText 
+2020-09-08 17:13:28,837 INFO  [Log] Waiting until page loads completely.. 
+2020-09-08 17:13:29,938 INFO  [Log] Checking Element Exists - headerTitleLabel 
+2020-09-08 17:13:32,982 INFO  [Log] Waiting until page loads completely.. 
+2020-09-08 17:13:34,008 INFO  [Log] Checking Element Exists - selectedProductNameBasedOnSearchTerm 
+2020-09-08 17:13:37,047 INFO  [Log] Waiting until page loads completely.. 
+2020-09-08 17:13:41,364 INFO  [Log] Waiting until page loads completely.. 
+2020-09-08 17:13:45,389 INFO  [Log] Waiting Until Element Is Visible - //*[@id='pageHeader']/div/div[3]/a/i 
+2020-09-08 17:13:45,520 INFO  [Log] Clicking object - viewBasket 
+2020-09-08 17:13:48,108 INFO  [Log] Waiting until page loads completely.. 
+2020-09-08 17:13:49,260 INFO  [Log] Waiting until page loads completely.. 
+2020-09-08 17:13:50,494 INFO  [Log] Checking Element Exists - searchProductAtBasketSummary 
+2020-09-08 17:13:53,543 INFO  [Log] Closing browser after running the Scenario.. 
+2020-09-08 17:13:53,544 INFO  [Log] **************************************************************************************** 
+2020-09-08 17:13:53,544 INFO  [Log] **                    END SCENARIO EXECUTION Title of your scenario              ** 
+2020-09-08 17:13:53,545 INFO  [Log] **************************************************************************************** 
